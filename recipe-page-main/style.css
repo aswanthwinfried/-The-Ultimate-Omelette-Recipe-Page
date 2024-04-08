@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Young+Serif&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: hsl(30, 54%, 90%);
+    width: 700px;
+    position: relative;
+    left: 460px;
+    top: 70px;
+     
+}
+.container{
+    background-color:hsl(0, 0%, 100%) ;
+    padding-left: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    margin-bottom: 70px;
+    border-radius: 20px;
+
+}
+.omel_img{
+    width: 560px;
+    height: auto;
+    border-radius: 20px;
+}
+.head1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-family: 'Young Serif';
+}
+.para1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-family: 'Outfit';
+    font-weight: 400;
+    color: hsl(30, 10%, 34%);
+}
+.head2 {
+    padding-left: 10px;
+    padding-top: 30px;
+    color: hsl(332, 51%, 32%);
+    font-family: 'Outfit';
+    font-weight: 800;
+    font-size: 23px;
+     
+}
+.preptime{
+    background-color:hsl(330, 100%, 98%) ;
+    border-radius: 20px;
+    color: hsl(30, 10%, 34%);
+    padding-left: 30px;
+    
+}
+.preptime ul {
+    padding-left: 30px;  
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+ 
+.list1 ul li{
+    padding-top: 8px;
+    font-family: 'Outfit';
+
+}
+li::marker{
+    color:hsl(332, 51%, 32%) ;
+}
+
+.ingri{
+    padding-top: 30px;
+    color: hsl(30, 10%, 34%);
+
+}
+
+.head3{
+    color: hsl(332, 51%, 32%);
+    font-size: 1.7rem;
+    font-family: 'Young Serif';
+    font-weight: 300;
+}
+.list2 ul  {
+    padding-top:1.2rem;
+    padding-left: 1.5rem;
+}
+.list2 ul li{
+    padding-top: 10px;
+    font-family: 'Outfit';
+
+}
+hr{
+    margin-top:30px ;
+    margin-bottom: 30px;
+}
+.list3{
+    padding-top: 20px;
+    padding-left: 20px;
+    color: hsl(30, 10%, 34%);
+    
+}
+.list3 ol li{
+    padding-bottom: 10px;
+    font-family: 'Outfit';
+    font-size: 15px;
+}
+.para2{
+    margin-top: 20px;
+    margin-bottom: 9px;
+    font-family: 'Outfit';
+    color:  hsl(30, 10%, 34%);
+}
+table{
+    margin-left: 20px;
+     border-collapse: collapse;
+     width: 560px;
+     color: hsl(30, 10%, 34%);
+
+}
+td{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Outfit';
+    
+}
+tr{
+    border-bottom: 1pt solid black;
+ 
+}
+ 
+.tc{
+    padding-left: 210px;
+    color:hsl(332, 51%, 32%) ;
+    font-weight: 700;
+}
+
+ 
